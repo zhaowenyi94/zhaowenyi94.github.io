@@ -13,9 +13,10 @@ description: > # this means to ignore newlines until "baseurl:"
   NEWS: I will exchange to KTH(Royal Institute of Technology) in Sweden for one year after Aug.2016, and I will record my life there through this blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zhaowenyi94.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: DavidZhao
 github_username:  zhaowenyi94
-weibo_username: @赵闻一
+weibo_username: 赵闻一
+linkedin_username: Wenyi Zhao
 
 # Build settings
 markdown: kramdown
