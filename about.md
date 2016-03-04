@@ -14,6 +14,6 @@ permalink: /about/
 <!--{% include icon-github.html username="jekyll" %} /-->
 <!--[jekyll](https://github.com/jekyll/jekyll)-->
 
-My name is Wenyi Zhao, a passionate person who like reading traveling and coding. I'm currently conducting bachelor degree in [Beijing Institute of Technology](https://www.bit.edu.cn) in Beijing, China. 
+My name is Wenyi Zhao, a passionate person who like reading traveling and coding. I'm currently conducting bachelor degree in [Beijing Institute of Technology](http://english.bit.edu.cn) in Beijing, China. 
  
 NEWS: I will exchange to [KTH(Royal Institute of Technology)](https://www.kth.se/en) in Sweden for one year after Aug.2016, and I will record my life there through this blog.
