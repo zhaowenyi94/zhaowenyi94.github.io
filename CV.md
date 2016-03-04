@@ -5,17 +5,16 @@ permalink: /curriculum_vitea/
 ---
 
 **EDUCATION**
-------
---------------------------------------------------------------------
 
+___
 - Beijing Institute of Technology (BIT)
     - ***B.S**. in Electrical and Automation Engineering(English Teaching Program)*
     - **Overall G.P.A.***(five-scale)*: 3.86/4.0 (rank: 1/30).
     - **Interested areas**: Digital Signal Processing; Computer Vision; Network Architecture.
 
 **RESEARCH EXPERIENCE**
-------
---------------------------------------------------------------------
+
+___
 - QR-code Locating System
     - **Mentor: *Prof. Senchun Chai***
     - Located and decoded the QR-code in images collected by camera.
@@ -33,8 +32,8 @@ permalink: /curriculum_vitea/
     - Tested the program with FVR-2004 database on Raspberry-Pi and linux.
 
 **COURSE DESIGN**
-------
---------------------------------------------------------------------
+
+___
 - Isolated-flyback DC-DC Converter Design
     - Simulated and made a DC-DC converter of 20-30V(Ave.24V) unstable input voltage and stable 5V/2A output, with the switching frequency 100kHz.
     - Realized the prototype with electronic devices and UC3844 to do the PWM control.
@@ -45,16 +44,23 @@ permalink: /curriculum_vitea/
   - Achieved basic architecture of 8-bits CPU on FPGA board with HDL-Verilog.
   - Used the FPGA and ISE to debug the program.
 
+
+
+
 **INDUSTRY EXPERIENCE**
-------
---------------------------------------------------------------------
+
+___
 - Samsung Telecom R&D Center, Handwriting Recognition Lab
     - *Data Annotation Intern*
     - Annotated data of hand-written equations with the corresponding LaTeX formulas.
 
 **LEADERSHIP EXPERIENCE**
-------
---------------------------------------------------------------------
+
+___
 - Science and Technology Leadership Association(STeLA) China Brunch
     - Organized ordinary seminars of China Brunch and recruited new members from Universities.
     - Decided the contents of group project with members from other brunches for the next STeLA forum in Okinawa, Japan.
+
+
+
+
