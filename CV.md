@@ -3,6 +3,9 @@ layout: page
 title: CV
 permalink: /curriculum_vitea/
 ---
+[im](../_files/WenyiZhao_CV.pdf)
+
+<a href="_files/WenyiZhao_CV.pdf">cacda.pdf</a>
 
 **EDUCATION**
 
