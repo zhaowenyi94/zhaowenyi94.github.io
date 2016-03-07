@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /curriculum_vitea/
 ---
-[im](_files/WenyiZhao_CV.pdf)zw
+<a href="{{ /_file/WenyiZhao.pdf | prepend: site.baseurl }}">sss</a>
 **EDUCATION**
 
 ___
