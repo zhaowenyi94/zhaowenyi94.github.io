@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /curriculum_vitea/
 ---
-<a href="{{ /_file/WenyiZhao.pdf | prepend: site.baseurl }}">sss</a>
+<a href="{{ /_file/WenyiZhao.pdf | prepend: http://www.zhaowenyi.me }}">sss</a>
 **EDUCATION**
 
 ___
