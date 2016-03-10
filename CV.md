@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /curriculum_vitea/
 ---
-<a href="http://www.zhaowenyi.me/_files/WenyiZhao_CV.pdf">sss</a>
+
 **EDUCATION**
 
 ___
