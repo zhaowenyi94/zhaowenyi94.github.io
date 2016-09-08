@@ -8,3 +8,6 @@ categories: jekyll update
 {% endhighlight %}
 
 This is the first article from Sweden.
+![Image]()([https://raw.githubusercontent.com/zhaowenyi94/zhaowenyi94.github.io/master/\_files/\_DSC6273.jpg][2])
+
+[2]:	https://raw.githubusercontent.com/zhaowenyi94/zhaowenyi94.github.io/master/_files/_DSC6273.jpg
