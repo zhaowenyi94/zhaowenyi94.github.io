@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 This is the first article from Sweden.
-![Image](https://raw.githubusercontent.com/zhaowenyi94/zhaowenyi94.github.io/master/\_files/\_DSC6273.jpg)
+![Image](https://mmbiz.qlogo.cn/mmbiz_jpg/CmWb1WlbQ5Jf8gK1V8L1VCEweH0S7xco1CHhMuATgR8661s51kSKG0bCkIgtcefGwLlicTZaCAltBhI0Fzrer0A/0?wx_fmt=jpeg)
